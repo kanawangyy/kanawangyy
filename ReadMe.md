@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KanaWangyy%20YoiKage&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KanaWangyy%20(YoiKage)&fontSize=70" />
   
   ### 👋 Halo, Saya KanaWangyy!
   *proframmer pemula*
@@ -46,7 +46,7 @@
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=kanawangyy&label=Profile%20Views&color=12&icon=5&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=kanawangyy&icon=0&color=0" />
 </div>
 
 
