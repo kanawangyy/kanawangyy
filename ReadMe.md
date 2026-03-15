@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KanaWangyy%20(YoiKage)&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KanaWangyy%20YoiKage&fontSize=70" />
   
   ### 👋 Halo, Saya KanaWangyy!
   *proframmer pemula*
@@ -37,9 +37,16 @@
 
 ### 🌐 Let's Connect:
 <p align="center">
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@yoikageig) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@yoikagevt) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yoikageyt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wangsitbagus1979@gmail.com) 
+<a href="https://instagram.com/@yoikageig"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="https://tiktok.com/@yoikagevt"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" /></a>
+<a href="https://youtube.com/@yoikageyt"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+<a href="mailto:wangsitbagus1979@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+---
+
 <div align="center">
-  [![](https://visitcount.itsvg.in/api?id=kanawangyy&icon=0&color=0)](https://visitcount.itsvg.in)
+  <img src="https://visitcount.itsvg.in/api?id=kanawangyy&label=Profile%20Views&color=12&icon=5&pretty=true" />
 </div>
+
+
