@@ -44,9 +44,5 @@
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=kanawangyy&icon=0&color=0" />
-</div>
-
+h
 
