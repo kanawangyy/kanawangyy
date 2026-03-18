@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KanaWangyy%20(YoiKage)&fontSize=70" />
   
   ### 👋 Halo, Saya KanaWangyy!
-  *proframmer pemula*
+  *programmer pemula*
   
   🚀 **Full-stack Developer & Multimedia Enthusiast**
   📍 Based in Indonesia
@@ -14,7 +14,6 @@
 * 💻 Saya sangat suka membangun sesuatu dengan baris kode.
 * 📖 Jika sedang tidak di depan layar, saya biasanya tenggelam dalam cerita yang menarik.
 * 🎨 Memiliki minat besar dalam desain visual dan editing video.
-* 🌟 Arima Kana adalah inspirasi utama saya, diikuti oleh Mafuyu.
 
 ### 🛠️ Tech Stack:
 
